@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  swarna:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-11T19:41:39.763809828Z"
+    description: A Helm chart for Kubernetes
+    digest: 292928264cbe1bf51847b5148af2bd3f1c31c59ca13567647a6b89190c9cb5fd
+    name: swarna
+    type: application
+    urls:
+    - https://videri123.github.io/helm-charts/swarna/swarna-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-11T19:41:39.761923022Z"
